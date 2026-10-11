@@ -1,0 +1,1 @@
+{"version":1,"salt":"Hjw8261vAxQFAnGZF0lX+g==","nonce":"5bTkNUi59HFV1zb4","argon2":{"memorySize":19456,"iterations":2,"parallelism":1},"aad":"QJZ-APPLICATION-v1","normalization":"NFC","applicationBytes":18368524,"applicationSha256":"aa70a89f2f5fec007b9ff4c40bc5db5a2a1fcd1b25a94d46176b152ad7932b09","workerSha256":"e4ff7d6ee48dc7f80f36286027db0276451cb4bf75a60dd6d86c567195a7e21b"}
